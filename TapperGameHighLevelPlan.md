@@ -3,6 +3,8 @@
 
 Based on the provided screenshot, 
 
+![tapper-example](https://raw.githubusercontent.com/patrikkjonsson/tapper/main/tapper-example.jpg)
+
 which depicts a pixelated scene from the classic arcade game Tapper (featuring Budweiser branding, multiple bar counters, advancing customers, a sliding mug, and the bartender), the goal is to build a modern recreation. This will be a fast-paced action game where the player acts as a bartender serving drinks to impatient customers across multiple bars to prevent chaos. The core mechanics will mirror the original: pouring and sliding drinks, catching empties, collecting tips, and progressing through themed levels with increasing difficulty. To keep it faithful, we'll incorporate Budweiser-themed elements from the screenshot (e.g., the logo and saloon-style bars), but make it optional for branding concerns.
 
 The development will use Python with the Pygame library, as it's suitable for 2D arcade-style games, handles sprites and input well, and is accessible for prototyping. The game will be structured as a single-player arcade experience with scoring, lives, and level progression. Estimated development time: 2-4 weeks for a basic version, assuming one developer with intermediate Python skills.
